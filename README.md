@@ -1,8 +1,8 @@
 # Hello, I'm Robson Martins 👋 
 
  - 👨‍🎓 I am a student of Analysis and Systems Development.<br/>
- - 👨‍🎓 And full stack developer in training.<br/>
- - 🌱 I am currently studying JavaScript.<br/>
+ - 👨‍🎓 I am full stack developer in training.<br/>
+ - 🌱 At the time i am studyng javascript.<br/>
  
  <div>
  <details>
