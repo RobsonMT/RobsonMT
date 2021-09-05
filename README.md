@@ -29,8 +29,6 @@
 <div style="display: inline-block"><br>
   <a href="https://www.linkedin.com/in/rbsndev3/"><img align="center" alt="Robson-" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:Rbsndev3@gmail.com"><img align="center" alt="Robson-" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a> <img align="center" width="100" height="28" src="https://komarev.com/ghpvc/?username=RobsonMT" alt="RobsonMT"/></a>
-</div>
     
     
     
