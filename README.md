@@ -17,32 +17,16 @@
 ##
 
 <div style="display: inline-block"><br>
-   <img align="center" height="30" width="40" alt="Robson-HTML5"           src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg">
-   <img align="center" height="30" width="40" alt="Robson-CSS3" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg">
+ <img align="center" height="30" width="40" alt="Robson-HTML5"           src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg">
+ <img align="center" height="30" width="40" alt="Robson-CSS3" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg">
+ <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <img align="center" height="30" width="40" alt="Robson-JS" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" height="30" width="40" alt="Robson-Git" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
+ <img align="center" height="30" width="40" alt="Robson-Git" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
 </div>
 
 ##
 
 <div style="display: inline-block"><br>
-  <a href="https://www.linkedin.com/in/rbsndev3/"><img align="center" alt="Robson-" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:Rbsndev3@gmail.com"><img align="center" alt="Robson-" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    
-    
-    
-    
-    
-
-
-
- 
-
-
-
-
-
-
-
-
-
+  <a href="https://www.linkedin.com/in/rbsndev3/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Rbsndev3@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
