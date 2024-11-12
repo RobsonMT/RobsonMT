@@ -17,7 +17,7 @@ Im a Fullstack developer and enthusiast of JavaScript technologies.
 #### 💬 Contact me:
 
 <div style="display: inline-flex">
-  <a href="https://www.linkedin.com/in/robsonfernandomartins/">
+  <a href="https://www.linkedin.com/in/robson-fernando-martins-98754719b/">
    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:Rbsndev3@gmail.com">
