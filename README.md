@@ -9,7 +9,7 @@ Im a Fullstack developer and enthusiast of JavaScript technologies.
  <img alt="React" src="https://img.shields.io/badge/-React-14C1F5?style=flat-square&logo=React&logoColor=white" />
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
- <img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black" />
+ <img alt="Django" src="https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=black" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
